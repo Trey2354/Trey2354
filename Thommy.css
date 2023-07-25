@@ -1,7 +1,15 @@
 p {
-    color: red;
+    color: rgb(112, 41, 179);
 font-size: 35px;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-stretch: ultra-expanded;
+align-items: center;
+}
+h1 {
 
+    border: 4mm ridge rgba(70, 62, 222, 0.52);
+}
+
+span{
+
+    color: rgb(112, 41, 179);
 }
