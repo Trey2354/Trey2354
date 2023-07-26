@@ -13,3 +13,13 @@ span{
 
     color: rgb(112, 41, 179);
 }
+
+.box-model-example {
+
+    background-color: red;
+    border: solid 10px; color: black;
+    margin: 45px;
+    padding: 20px;
+    width: 400px;
+
+}
