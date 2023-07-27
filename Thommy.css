@@ -1,25 +1,131 @@
-p {
-    color: rgb(112, 41, 179);
-font-size: 35px;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-align-items: center;
+.Bio {
+    color: rgb(0, 0, 0);
+font-size: 31px;
+font-family: Georgia, 'Times New Roman', Times, serif
+text-align: center;
+padding-right: 90px;
 }
 h1 {
 
-    border: 4mm ridge rgba(70, 62, 222, 0.52);
+    border: 40px rgba(0, 0, 0, 0.52);
+    font-size: 40px;
+    border-style: groove;
+    border-width: 5px;
+    text-align: center;
 }
 
 span{
 
-    color: rgb(112, 41, 179);
+    color: rgb(0, 0, 0);
 }
 
-.box-model-example {
 
-    background-color: red;
-    border: solid 10px; color: black;
-    margin: 45px;
-    padding: 20px;
-    width: 400px;
+.Selfie {
+    max-width: 80%;
+    border: 20px;
+    border-style: double;
+}
+  
 
+
+
+.Parent {
+    display: flex;
+}
+
+.Insta {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.About {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Link {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Handshake {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Twitter {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Git {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Back{
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+}
+
+.Updated {
+
+    font-size: 40px;
+    color: black;
+    text-align: left;
+   padding-top: 30px;
+   padding-bottom: 30px;
+
+}
+
+.Purent {
+
+display: flex;
+    text-align: right;
+    border-color: black;
+}
+
+.Purent a {
+    color: rgb(20, 43, 173);
+}
+
+.Back a {
+
+    color:rgb(20, 43, 173);
+}
+
+.Pic {
+
+    max-width: 80%;
+    border: 20px;
+    border-style: double;
+    border-color: black;
 }
